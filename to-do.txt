@@ -1,0 +1,13 @@
+Create an API folder -[*].
+Create a JSON API -[*].
+Remove JS alert for image problem -[*].
+Pass the username form the post to the email function to get the username displayed - [*].
+Do an error check if the email is not found in database - [*].
+Fix flash message on dashboard - [*].
+Fix same product for all users - [*].	
+Fix user and product image preview issue - [*].
+Fix delete product option - [*].
+Fix not uploading if placeholder image - [*].
+Create a store for users on website - [].
+Create a page to display all stores on website - [].
+Fix select option deselect all when not all is selected - [].

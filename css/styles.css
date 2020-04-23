@@ -1,0 +1,43 @@
+/* Google fonts import
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+
+.form-div {
+  margin: 0px auto 50px;
+  padding: 25px 15px 10px 15px;
+  border: 1px solid #80ced7;
+  border-radius: 5px;
+  font-size: 1.1em;
+  font-family: 'Lora', serif;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+form p {
+  font-size: .89em;
+}
+
+.form-div.login {
+  margin-top: 70px;
+}
+
+.logout {
+  color: red;
+}
+*/
+/* Dashboard */
+.inline {
+  display: inline-flex;
+  text-align: center;
+  list-style: none;
+  margin: 5px;
+}
+li {
+  margin-right: 40px;
+}
+
+.hovy:hover {
+  background-color: #d3d3d3;
+
+/* */

@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Remove .php file extension
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# Load error page
+ErrorDocument 404 /404.php
